@@ -8,5 +8,3 @@
 2. اثنين
 
 
-
-{% file src="../.gitbook/assets/CG ORG (42).pdf" %}
