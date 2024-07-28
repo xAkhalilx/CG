@@ -2,9 +2,7 @@
 
 Welcome to the Consultancy Group! We are delighted to have you join our team of skilled professionals.&#x20;
 
-{% hint style="info" %}
 This Employee **Handbook** serves as your comprehensive guide to understanding our organization, policies, and expectations.&#x20;
-{% endhint %}
 
 At the Consultancy Group, we take pride in being an esteemed engineering firm. With over 30 years of experience, we have established ourselves as a trusted partner in delivering exceptional engineering solutions across various industries.&#x20;
 
